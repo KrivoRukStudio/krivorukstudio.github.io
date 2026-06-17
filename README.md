@@ -1,1 +1,3 @@
 # krivorukstudio.github.io
+
+google.com, pub-4773658762366932, DIRECT, f08c47fec0942fa0
